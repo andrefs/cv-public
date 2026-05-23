@@ -1,4 +1,4 @@
-# André Ferreira
+# André F. Santos
 
 Full Stack Developer | Semantic Web & NLP Enthusiast
 
@@ -16,7 +16,7 @@ Fullstack developer working with Node.js and TypeScript. Interested in semantic 
 
 ## Projects
 
-- **Stars Game** – Web game to build semantic similarity datasets: [stars.andrefs.com](https://stars.andrefs.com)
+- **Shooting Stars** – Web game to build semantic similarity datasets: [stars.andrefs.com](https://stars.andrefs.com)
 - **Derzis** – Path-aware semantic web crawler
 - **Chillon** – Rust namespace-based semantic graph summarizer
 
